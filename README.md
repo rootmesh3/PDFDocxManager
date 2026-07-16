@@ -1,3 +1,7 @@
+![Platform](https://img.shields.io/badge/platform-Windows-blue)
+![Python](https://img.shields.io/badge/python-3.8%2B-green)
+![License](https://img.shields.io/badge/license-MIT-lightgrey)
+
 # PDF/DOCX File Manager
 
 A portable Windows application for managing, tracking, and organizing PDF and DOCX files across multiple folders.
