@@ -26,6 +26,17 @@ A portable Windows application for managing, tracking, and organizing PDF and DO
 - **Offline Operation**: Works completely offline, no internet required
 - **Extensible JSON Format**: Future-proof data structure for adding new features
 
+## Screenshots
+
+### Main Window
+![Main Window](screenshots/main_window.jpg)
+
+### Settings
+![Settings](screenshots/settings_window.jpg)
+
+### About
+![About](screenshots/about_window.jpg)
+
 ## Installation & Setup
 
 ### Prerequisites
