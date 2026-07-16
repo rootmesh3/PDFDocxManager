@@ -17,6 +17,10 @@ A portable Windows application for managing, tracking, and organizing PDF and DO
 - **Duplicate & Missing File Handling**: Smart detection of moved files to preserve progress
 - **JSON Data Storage**: All data stored in a portable JSON file with backup location selection
 
+## Download
+
+Get the latest version from [Releases](https://github.com/rootmesh3/PDFDocxManager/releases/latest).
+
 ### User Interface
 - **Dark Theme**: Modern dark interface with green accent colors
 - **Tree View**: Organized display showing original folder structure
@@ -200,3 +204,5 @@ This software is provided as-is for personal use. Feel free to modify and distri
 ## Support
 
 For issues or feature requests, please check the documentation or create an issue in the project repository.
+
+> Part of my personal project portfolio — see more at [nomunsheikh.netlify.app](https://nomunsheikh.netlify.app/)
